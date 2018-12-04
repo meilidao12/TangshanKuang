@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZTGPRSService", "ZTGPRSService\ZTGPRSService.csproj", "{E1127B92-A6D7-41EE-818E-72664663284A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{EE86E0B8-F165-4521-BF16-4A0783924F5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtocolFamily", "ProtocolFamily\ProtocolFamily.csproj", "{A3455767-BB03-4C0D-BD4D-948096C7526A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommunicationServers", "CommunicationServers\CommunicationServers.csproj", "{EE21AC1E-0FBB-4EEA-8D22-EB6C9775F4D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1127B92-A6D7-41EE-818E-72664663284A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1127B92-A6D7-41EE-818E-72664663284A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1127B92-A6D7-41EE-818E-72664663284A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1127B92-A6D7-41EE-818E-72664663284A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE86E0B8-F165-4521-BF16-4A0783924F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE86E0B8-F165-4521-BF16-4A0783924F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE86E0B8-F165-4521-BF16-4A0783924F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE86E0B8-F165-4521-BF16-4A0783924F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3455767-BB03-4C0D-BD4D-948096C7526A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3455767-BB03-4C0D-BD4D-948096C7526A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3455767-BB03-4C0D-BD4D-948096C7526A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3455767-BB03-4C0D-BD4D-948096C7526A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE21AC1E-0FBB-4EEA-8D22-EB6C9775F4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE21AC1E-0FBB-4EEA-8D22-EB6C9775F4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE21AC1E-0FBB-4EEA-8D22-EB6C9775F4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE21AC1E-0FBB-4EEA-8D22-EB6C9775F4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
