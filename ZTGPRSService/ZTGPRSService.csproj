@@ -65,6 +65,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="bat\InstallService.bat" />
+    <None Include="bat\Set.ini" />
     <None Include="bat\StartService.bat" />
     <None Include="bat\StopService.bat" />
     <None Include="bat\UninstallService.bat" />

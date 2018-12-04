@@ -46,6 +46,7 @@
     <Compile Include="Interface\IAnalysisDataHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProtocolFactory.cs" />
+    <Compile Include="TangShanKuang\TSKModel.cs" />
     <Compile Include="tianyuan\ModbusModel.cs" />
     <Compile Include="tianyuan\TradeModel.cs" />
     <Compile Include="YanGang\AnalysisDataHelper.cs" />
