@@ -39,9 +39,9 @@
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.Description = "ZTGPRSService";
-            this.serviceInstaller1.DisplayName = "ZTGPRSService";
-            this.serviceInstaller1.ServiceName = "ZTGPRSService";
+            this.serviceInstaller1.Description = "唐山矿用";
+            this.serviceInstaller1.DisplayName = "TangShanKuang";
+            this.serviceInstaller1.ServiceName = "TangShanKuang";
             this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             // 
             // ProjectInstaller
